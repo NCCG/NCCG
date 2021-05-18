@@ -4,5 +4,5 @@
 
 ### Aqui serão listados os projetos em desenvolvimento do núcleo
 
-- ![AZURE](https://portal.azure.com/#home)
+- [AZURE](https://portal.azure.com/#home)
 - INMA
