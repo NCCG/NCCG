@@ -1,11 +1,14 @@
 # NCCG
 
-## Esse é o [website](https://nccg.github.io/) do Setor de Análise Espacial do Núcleo de Computação Científica e Geoprocessamento do JBRJ
+## This is a [webpage](https://nccg.github.io/) of Spatial Analysis department of the do  Scientific Computing and Geoprocessing Center (NCCG) of Rio de Janeiro Botanical Garden.
 
-### Aqui serão listados os projetos em desenvolvimento do núcleo
+### Projects 
+
+- [BHRD](https://github.com/Projeto-BHRD-INMA)
+
+### Data processing 
 
 - [AZURE](https://portal.azure.com/#home)
-- [BHRD](https://github.com/Projeto-BHRD-INMA)
 
 ###  <span style="color:black"> Our Team </span>
 
