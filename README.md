@@ -14,6 +14,7 @@
 
 <img src="https://i.imgur.com/ix25hQD.png" alt="Azure" width="400"/>
 
+<img align="center" width="300" height="300" src="https://i.imgur.com/ix25hQD.png">
 
 
 ### Packages publications 
