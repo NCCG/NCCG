@@ -14,6 +14,9 @@
 
 ![](https://i.imgur.com/ix25hQD.png)
 
+<img src="https://i.imgur.com/ix25hQD.png" alt="Azure" width="200"/>
+
+
 
 ### Packages publications 
 
