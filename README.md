@@ -5,8 +5,8 @@
 ### Aqui serão listados os projetos em desenvolvimento do núcleo
 
 - [AZURE](https://portal.azure.com/#home)
-- [INMA](https://github.com/Projeto-BHRD-INMA)
+- [BHRD](https://github.com/Projeto-BHRD-INMA)
 
-### Our Team <span style="color:black">
+###  <span style="color:black"> Our Team </span>
 
 ![](https://i.imgur.com/weXG4Am.png)
