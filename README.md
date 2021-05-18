@@ -2,7 +2,7 @@
 
 ## [Webpage](https://nccg.github.io/) of Spatial Analysis 
 
-**NCCG (Scientific Computing and Geoprocessing Center), Rio de Janeiro Botanical Garden.**
+**NCCG (Scientific Computing and Geoprocessing Center), Rio de Janeiro Botanical Garden**
 
 ### Projects 
 
@@ -10,12 +10,12 @@
 
 ### Data processing 
 
-- [AZURE](https://portal.azure.com/#home)
+- [AZURE](https://portal.azure.com/#home). A platform for running applications and services, based on the concepts of cloud computing (Microsoft grant)
 
 ### Packages publications 
 
-- [modler](https://www.biorxiv.org/content/10.1101/2020.04.01.021105v1), An ecological niche model workflow based on dismo. [Repository acess](https://github.com/Model-R/modleR).
-- [plantR](https://www.biorxiv.org/content/10.1101/2021.04.06.437754v1), An R package and workflow for managing species records from biological collections.  [Repository acess](https://github.com/LimaRAF/plantR).
+- [modler](https://www.biorxiv.org/content/10.1101/2020.04.01.021105v1), an ecological niche model workflow based on dismo. [Repository acess](https://github.com/Model-R/modleR)
+- [plantR](https://www.biorxiv.org/content/10.1101/2021.04.06.437754v1), an R package and workflow for managing species records from biological collections.  [Repository acess](https://github.com/LimaRAF/plantR)
 
 ###  <span style="color:black"> Our Team </span>
 
