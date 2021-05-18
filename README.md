@@ -7,6 +7,6 @@
 - [AZURE](https://portal.azure.com/#home)
 - [INMA](https://github.com/Projeto-BHRD-INMA)
 
-### Our Team
+### Our Team <span style="color:black">
 
 ![](https://i.imgur.com/weXG4Am.png)
