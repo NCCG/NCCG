@@ -12,6 +12,9 @@
 
 - [AZURE](https://portal.azure.com/#home). A platform for running applications and services, based on the concepts of cloud computing (Microsoft grant)
 
+![](https://i.imgur.com/ix25hQD.png)
+
+
 ### Packages publications 
 
 - [modler](https://www.biorxiv.org/content/10.1101/2020.04.01.021105v1), an ecological niche model workflow based on dismo. [Repository access](https://github.com/Model-R/modleR)
