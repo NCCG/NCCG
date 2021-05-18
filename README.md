@@ -10,11 +10,9 @@
 
 ### Data processing 
 
-- [AZURE](https://portal.azure.com/#home). A platform for running applications and services, based on the concepts of cloud computing (Microsoft grant)
+- [AZURE](https://portal.azure.com/#home). A platform for running applications and services, based on the concepts of cloud computing (Microsoft grant) </b>
 
-
-
- <img align="left" width="400" height="400" src="https://i.imgur.com/ix25hQD.png">
+ <img align="left" width="450" height="400" src="https://i.imgur.com/ix25hQD.png"> </b>
 
 
 ### Packages publications 
