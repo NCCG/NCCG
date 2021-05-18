@@ -6,13 +6,15 @@
 
 ### Projects 
 
-- [BHRD](https://github.com/Projeto-BHRD-INMA)
+- [BHRD](https://github.com/Projeto-BHRD-INMA). PCI/INMA (Institutional Training Program, Atlantic Forest National Institute) 
 
 ### Data processing 
 
 - [AZURE](https://portal.azure.com/#home). A platform for running applications and services, based on the concepts of cloud computing (Microsoft grant)
 
-<img src="https://i.imgur.com/ix25hQD.png" alt="Azure" width="400"/>
+
+
+ <img align="left" width="400" height="400" src="https://i.imgur.com/ix25hQD.png">
 
 
 ### Packages publications 
