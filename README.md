@@ -12,7 +12,7 @@
 
 - [AZURE](https://portal.azure.com/#home) a platform for running applications and services, based on the concepts of cloud computing (Microsoft grant)           
  
- <img align="right" width="350" height="300" src="https://i.imgur.com/ix25hQD.png">                         
+ <img align="center" width="550" height="500" src="https://i.imgur.com/ix25hQD.png">                         
 
 
 ### Packages publications 
