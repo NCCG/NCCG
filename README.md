@@ -1,6 +1,6 @@
 # NCCG
 
-## [Webpage](https://nccg.github.io/) of Spatial Analysis </b>
+## [Webpage](https://nccg.github.io/) of Spatial Analysis 
 
 Scientific Computing and Geoprocessing Center (NCCG)/Rio de Janeiro Botanical Garden.
 
